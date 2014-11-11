@@ -1,0 +1,52 @@
+/* Your Website Styles */
+body {
+	background: url("../img/subtle_white_mini_waves/subtle_white_mini_waves.png"), #eee;
+}
+h1{
+	font-family:'Lobster', cursive;
+	color: black;
+	font-size: 4em;
+
+	background: white;
+	padding:5px;
+	border: 3px gray dotted;
+	width: 840px;
+	margin: 61px;
+
+}
+
+h2{
+	font-family: 'Oswald', sans-serif;
+	color: #696969;
+	font-size: 3em;
+
+	background: white;
+	padding: 3px;
+	border: 4px gray solid;
+	width: 241px;
+	margin:1px;
+
+
+}
+h3{
+	font-family:'Oswald', sans-serif;
+	color:#696969;
+	font-size: 3em;
+
+	background: white;
+	padding: 3px;
+	border: 4px gray solid;
+	width: 241px;
+	margin:1px;
+}
+
+
+div {
+	margin-top: -60px;	x 
+}
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
