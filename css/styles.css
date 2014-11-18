@@ -3,22 +3,11 @@ body {
 	background: url("../img/subtle_white_mini_waves/subtle_white_mini_waves.png"), #eee;
 }
 h1{
-	font-family:'Lobster', cursive;
-	color: black;
-	font-size: 4em;
-
-	background: white;
-	padding:5px;
-	border: 3px gray dotted;
-	width: 840px;
-	margin: 61px;
-
-}
-
-h2{
-	font-family: 'Oswald', sans-serif;
-	color: #696969;
-	font-size: 3em;
+	font-family: 'Pacifico', cursive;
+	font-size:50px;
+	color: orange;
+	letter-spacing: .05em;
+	display: inline;	
 	
 
 	background: white;
@@ -27,20 +16,51 @@ h2{
 	width: 241px;
 	margin:1px;
 
-
 }
-h3{
-	font-family:'Oswald', sans-serif;
-	color:#696969;
-	font-size: 3em;
+
+h2{
+	font-family: 'Oswald', sans-serif;
+	color: orange;
+	font-size: 2em;
+	
 
 	background: white;
 	padding: 3px;
 	border: 4px gray solid;
-	width: 241px;
+	width: 306px;
+	margin:1px;
+
+
+}
+h3{
+	font-family:'Oswald', sans-serif;
+	color:orange;
+	font-size: 2em;
+
+	background: white;
+	padding: 3px;
+	border: 4px gray solid;
+	width: 306px;
 	margin:1px;
 }
 
+h4{
+	
+	font-weight: 600;
+	margin-bottom: -10px;
+	margin-top: 15px;
+}
+#work{
+	letter-spacing:1px;
+
+}
+.grid_12_center{
+	width:5px;
+	margin-top:12px;
+}
+
+
+}
 
 div {
 	margin-top: -60px;	x 
